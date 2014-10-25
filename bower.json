@@ -1,6 +1,6 @@
 {
 	"name" : "NailThumb",
-	"version" : "1.1.0",
+	"version" : "1.1.1",
 	"main" : [
 		"src/jquery.nailthumb.1.1.min.css",
 		"src/jquery.nailthumb.1.1.min.js"
